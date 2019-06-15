@@ -7,7 +7,7 @@
 <body>
 
 <div class="container">
-    <h1>How to create url shortener using Laravel? - ItSolutionStuff.com</h1>
+    <h1>How to create URL shortener using Laravel? - ItSolutionStuff.com</h1>
 
     <div class="card">
       <div class="card-header">
