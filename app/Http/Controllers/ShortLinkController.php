@@ -31,7 +31,7 @@ class ShortLinkController extends Controller
         ]);
 
         $input['link'] = $request->link;
-        $input['code'] = str_random(6);
+        $input['code'] = uniqid(); // infinite unique codes
 
         ShortLink::create($input);
 
